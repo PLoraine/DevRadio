@@ -1,3 +1,3 @@
 # DevRadio
 
-https://lukaslepez.github.io/DevRadio/
+https://lukas-lepez.000webhostapp.com/
